@@ -1,0 +1,31 @@
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Coaches on the couch</title>
+    <link></link>
+    <language></language>
+    <copyright>2023</copyright>
+    <itunes:subtitle>The Multiverse podcast about all things coaching</itunes:subtitle>
+    <itunes:author>Bernard</itunes:author>
+    <itunes:summary></itunes:summary>  
+    <itunes:owner>
+      <itunes:name>Bernard Mordan</itunes:name>
+      <itunes:email>bernard.mordan@multiverse.io</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61K4iWcC+VL.jpg" />
+    <itunes:category text="Business News"/>
+    
+      <item>
+        <title>Ep 4</title>
+        <itunes:author>MV</itunes:author>
+        <itunes:subtitle>Episode with AH</itunes:subtitle>
+        <itunes:summary>What do we expect from our jobs?</itunes:summary>
+        <itunes:image href="https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/61K4iWcC+VL.jpg" />
+        <enclosure url="https://drive.google.com/file/d/1VR-dWRN7ngpM0RJ2lhvS7zsmi2D1zl7y/view?usp=share_link" length="42200" type="audio/mpeg"/>
+        <guid>1fNtQcxL6wvk8oTr7YEx4yXi6h4S-zMRy</guid>
+        <pubDate>Mon Mar 27 2023 11:59:22 GMT+0100 (British Summer Time)</pubDate>
+        <itunes:duration>30:44</itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
